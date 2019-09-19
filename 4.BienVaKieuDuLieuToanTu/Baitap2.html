@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form>
+
+    Amount:<br>
+    <input type="text" id="AmounToMoney">
+    <br>
+    From Cusrrency : <br>
+    <select id="from" name="FromCusrrency">
+        <option value="VND"> Viet Nam</option>
+        <option value="USD"> USD</option>
+
+    </select>
+    <br>
+    <br>
+    To Cusrrency : <br>
+    <select id="to" name="ToCusrrency">
+        <option value="VND"> VND</option>
+        <option value="USD"> USD</option>
+    </select>
+    <br>
+    <br>
+    <input type="button" onclick="ExchangeMoney()" value="Convert"/>
+
+    <br>
+    <p id="kq"></p>
+
+    <script>
+        function ExchangeMoney() {
+        let amount = document.getElementById("AmounToMoney");
+        let fromCusrrency = document.getElementById("from");
+        let toCusrrency = document.getElementById("to");
+        let tiGia = 23000;
+        let result = 0;
+
+
+            if (fromCusrrency.value === "VND" && toCusrrency.value === "USD") {
+                result = amount.value / tiGia;
+            } else if (toCusrrency.value === "VND" && fromCusrrency.value === "USD") {
+                result = amount.value * tiGia;
+            } else {
+                result = amount.value;
+            }
+        
+
+        document.getElementById("kq").innerText = result;}
+
+
+    </script>
+
+</form>
+
+</body>
+</htmL>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<from>
+    <select id="chooseMonth";>
+        onchange="getMonthChoose()">
+        <option>disabled selected</option>
+        <option value="1">Mot</option>
+        <option value="2">Hai</option>
+        <option value="3">Ba</option>
+        <option value="4">Bon</option>
+        <option value="5">Nam</option>
+        <option value="6">Sau</option>
+        <option value="7">Bay</option>
+        <option value="8">Tam</option>
+    </select>
+    <input type="button" onclick="getMonthChoose()"value="Sumbit"/>
+</from>
+<script>
+    var month = document.getElementById("chooseMonth");
+    function getMonthChoose() {
+        alert(month.value);
+        
+    }
+</script>
+</body>
+</html>
