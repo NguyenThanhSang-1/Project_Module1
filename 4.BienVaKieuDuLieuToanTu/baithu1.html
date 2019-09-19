@@ -5,16 +5,40 @@
     <title>Title</title>
 </head>
 </body>
-<p id ="html"> </p>
-<p id ="text"> </p>
-<button onclick = "numtest+ C)" > submit </button>
-<script>
-    var result = ", imput type=text" value="hello"/> ;
-            function numTest( ) {
-        dcm.getElementById("html").innerHTML=result;
-        //dcm.getElementById(text).innerText= result;
+<h2>Calculator</h2>
+<form>
+    <input type="text"   id="a" />
 
-            }
-</script>
+    <input type="text" id="b" /> <br><br>
+    <button type="button" onclick="Addition()">Addition</button>
+    <button type="button" onclick="Subtraction()">Subtraction</button>
+    <button type="button" onclick="Multiplication()">Multiplication</button>
+    <button type="button" onclick="Division()">Division</button>
+    <p id="aa"></p>
+
+    <script>
+        let a = document.getElementById("a");
+        let b = document.getElementById("b");
+        function Addition() {
+            document.getElementById("aa").innerText = a.value*1+b.value*1;
+
+        }
+        function Subtraction() {
+            document.getElementById("aa").innerText = a.value-b.value;
+
+        }
+        function Multiplication() {
+            document.getElementById("aa").innerText = a.value * b.value;
+
+        }
+        function Division() {
+            document.getElementById("aa").innerText = a.value / b.value;
+
+
+        }
+
+
+    </script>
+</form>
 </html>
 </body>
