@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e42b57d-d8de-48c8-b59f-0978c3d55812" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../5.CauTrucDieuKien/Th.sudungvonglap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5.CauTrucDieuKien/Yeucau3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../5.CauTrucDieuKien/sudungvonglap2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sudungcautruclap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sudungvonglap2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.BienVaKieuDuLieuToanTu/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4.BienVaKieuDuLieuToanTu/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.BienVaKieuDuLieuToanTu/yeucau1.tash 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../4.BienVaKieuDuLieuToanTu/yeucau1.tash 1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.BienVaKieuDuLieuToanTu/yeucau2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../4.BienVaKieuDuLieuToanTu/yeucau2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.CauTrucDieuKien/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5.CauTrucDieuKien/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3e42b57d-d8de-48c8-b59f-0978c3d55812" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -23,20 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sudungcautruclap.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
-              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sudungvonglap2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            <state relative-caret-position="208">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -61,9 +51,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="430" />
-    <option name="y" value="245" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-38" />
+    <option name="y" value="2" />
     <option name="width" value="1260" />
     <option name="height" value="710" />
   </component>
@@ -89,6 +79,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -118,16 +109,18 @@
       <updated>1569382021376</updated>
       <workItem from="1569382022783" duration="81000" />
       <workItem from="1569382125219" duration="138000" />
+      <workItem from="1569382302578" duration="620000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219000" />
+    <option name="totallyTimeSpent" value="839000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-30" y="2" width="1008" height="568" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38928938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -150,17 +143,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Sudungcautruclap.html">
+    <entry file="file://$PROJECT_DIR$/sudungvonglap2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="208">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sudungvonglap2.html">
+    <entry file="file://$PROJECT_DIR$/Sudungcautruclap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        <state relative-caret-position="112">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
