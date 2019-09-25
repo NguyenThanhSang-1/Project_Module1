@@ -6,6 +6,7 @@
 </head>
 <body>
 <script>
+
     let nameCustomer = prompt("Enter Name Customer: ");
     let idCard = prompt("Enter Id Card Customer: ");
     let birthdayCustomer = prompt("Enter Birthday Customer (dd/MM/YYYY): ");
@@ -19,7 +20,7 @@
     let typeService = prompt("Enter Type Service: ");
     let totalPays = 500 * Number.parseInt(rentDays) * (1 - Number.parseFloat(discount)/100);
     alert(
-    "Information Of Customer:\n" +
+        "Information Of Customer:\n" +
         "Name : " + nameCustomer +
         "\nIdCard : " + idCard +
         "\nBirthday : " + birthdayCustomer +
