@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ed78944-3d0e-4f14-b4f9-c5cfa2ecf77b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/thuchanhthu3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeucau4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thuchanh2.html" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yeucau4.html" beforeDir="false" afterPath="$PROJECT_DIR$/yeucau4.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/yeucau4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state relative-caret-position="320">
+              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -193,12 +190,12 @@
       <workItem from="1569806689295" duration="8172000" />
       <workItem from="1569850433430" duration="637000" />
       <workItem from="1569853179321" duration="2733000" />
-      <workItem from="1569892633261" duration="14331000" />
+      <workItem from="1569892633261" duration="18301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36659000" />
+    <option name="totallyTimeSpent" value="40629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -307,8 +304,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/yeucau4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        <state relative-caret-position="320">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
         </state>
       </provider>
     </entry>
