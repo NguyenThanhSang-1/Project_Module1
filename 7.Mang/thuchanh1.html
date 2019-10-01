@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS Bin</title>
+    <style>
+        body {padding-top:50px}
+    </style>
+</head>
+<body>
+
+
+            <h1>Sample Screen:</h1>
+                    <input type ="text" id="tntValue"></input>
+            <input type ="button" id="ntsAdd" value="Add" onclick="add_element_to_array();"></input>
+
+            <input type ="button" id="stnDisplay" value="Display" onclick="display_array();"></input>
+
+            <div id="result"></div>
+<script>
+    let x = 0;
+    let array = Array();
+    function add_element_to_array() {
+        array[x] = document.getElementById("tntValue").value;
+        alert("Element: " + array[x] + "Add at index" + x);
+        x++;
+        document.getElementById("tntValue").value = "";
+
+
+    }
+    function display_array() {
+        let e = "<hr/>";
+        for (let i = 0;i < array.length;i++){
+            e +="Element" + i +" = " + arrray[i] + "<br/>";
+
+        }
+        document.getElementById("result").innerHTML = e;
+        
+    }
+</script>
+</body>
+
+
+</html>
