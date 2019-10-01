@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ed78944-3d0e-4f14-b4f9-c5cfa2ecf77b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baithu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanh1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thuchanh2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeucau3tash1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yeucau3tash2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thuchanhthu3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yeucau4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yeucau3.html" beforeDir="false" afterPath="$PROJECT_DIR$/yeucau3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thuchanh2.html" beforeDir="false" afterPath="$PROJECT_DIR$/thuchanh2.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,8 +21,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/yeucau3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="39" column="76" selection-start-line="39" selection-start-column="76" selection-end-line="39" selection-end-column="76" />
+            <state relative-caret-position="368">
+              <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/yeucau4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -48,11 +54,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thuchanh2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+            <state relative-caret-position="288">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thuchanhthu3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -96,6 +111,8 @@
         <option value="$PROJECT_DIR$/baithu.html" />
         <option value="$PROJECT_DIR$/thuchanh1.html" />
         <option value="$PROJECT_DIR$/thuchanh2.html" />
+        <option value="$PROJECT_DIR$/thuchanhthu3.html" />
+        <option value="$PROJECT_DIR$/yeucau4.html" />
       </list>
     </option>
   </component>
@@ -176,12 +193,12 @@
       <workItem from="1569806689295" duration="8172000" />
       <workItem from="1569850433430" duration="637000" />
       <workItem from="1569853179321" duration="2733000" />
-      <workItem from="1569892633261" duration="8208000" />
+      <workItem from="1569892633261" duration="14331000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30536000" />
+    <option name="totallyTimeSpent" value="36659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -239,13 +256,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yeucau3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="39" column="76" selection-start-line="39" selection-start-column="76" selection-end-line="39" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../4.BienVaKieuDuLieuToanTu/yeucau1.tash 1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
@@ -276,8 +286,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/thuchanh2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        <state relative-caret-position="288">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thuchanhthu3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yeucau3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="51" lean-forward="true" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yeucau4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
         </state>
       </provider>
     </entry>
